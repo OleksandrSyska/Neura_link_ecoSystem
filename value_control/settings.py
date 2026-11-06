@@ -1,0 +1,19 @@
+SCW = 1900
+SCH = 1000
+fl_lines = 0
+speed_multiplier = 1.2
+stop_multiplier = 0.5
+speed_max = 7
+angle_max = 10
+count = 75
+weight_range = 1#0.12
+bias_range = 1#0.12
+weight_mutation_range = 0.02#0.15 
+#TODO MERIT
+bias_mutation_range = 0.02#0.15
+min_weight_mutation = 5
+max_weight_mutation = 20 #72 # half
+min_bias_mutation = 5
+max_bias_mutation = 10 # half 
+round_range = 2
+auto_gen_time = 5000
