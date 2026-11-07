@@ -1,5 +1,5 @@
-SCW = 1900
-SCH = 1000
+SCW = 1920
+SCH = 1008
 fl_lines = 0
 speed_multiplier = 1.2
 stop_multiplier = 0.5
